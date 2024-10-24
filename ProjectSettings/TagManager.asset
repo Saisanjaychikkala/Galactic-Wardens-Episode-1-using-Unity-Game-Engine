@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - RedLaser
+  - Explosion
+  - rock
+  - BlackDroidAP
+  - FlyingDroid
+  - Oxygen
+  - BlueLaser
+  - Boost
+  - Teleporter
+  - jawa
+  - Console
+  - Horizon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGound
+    uniqueID: 1848287277
+    locked: 0
+  - name: UnderGround
+    uniqueID: 4246993617
+    locked: 0
+  - name: Cave
+    uniqueID: 805019909
+    locked: 0
+  - name: Portal
+    uniqueID: 2315526535
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3991530577
+    locked: 0
